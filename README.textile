@@ -1,0 +1,5 @@
+h2. Ertele
+
+O an için okuyamayacağınız her türlü web sayfasını erteleyin, isterseniz yedekleyin.
+
+Şu an için yarım kalmış bir projedir, işinize yaramaz
